@@ -1,0 +1,19 @@
+.container-fluid {
+	width: 80%;
+	margin-bottom: 20px;
+	margin-top: 100px;
+}
+.btn-edit{
+	background-color: rgb(74, 226, 61);
+	padding: 6px;
+	border: 1px solid #dddddd;
+	border-radius: 4px;
+}
+.others>li>input{
+	position: relative;
+}
+.ti-search{
+	position: absolute;
+	border: none;
+	display: block;
+}
